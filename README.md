@@ -1,6 +1,7 @@
 # Taksioras - a program which finds and animates the longest path on a graph
 
 ## Made for KTU's Discrete Structures course
+## No requirements.txt is provided, so you will be on your own when setting up the Python environment
 
 ### This program finds the longest path in a provided graph.
 The program provides a GUI in which various parameters can in set:
