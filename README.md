@@ -8,7 +8,7 @@ The program provides a GUI in which various parameters can in set:
 - Graph type (grid or adjacency list)
 - Start vertex
 - End vertex
-- Whether to find elementary paths (a vertex shall not appear more than once in the path) or simple paths (an edge may not appera more than once in the path)
+- Whether to find elementary paths (a vertex shall not appear more than once in the path) or simple paths (an edge may not appear more than once in the path)
 
 ### UI
 <img width="864" height="902" alt="image" src="https://github.com/user-attachments/assets/d39fa9e3-4e92-4c90-abe0-bac30dee73fb" />
