@@ -1,4 +1,4 @@
-# Taksioras - a program which finds and animates the longest path on a graph
+# A program which finds and animates the longest path on a graph
 
 ## Made for KTU's Discrete Structures course
 ## No requirements.txt is provided, so you will be on your own when setting up the Python environment
@@ -21,6 +21,3 @@ The program provides a GUI in which various parameters can in set:
 ### Architecture
 The path solver is written in Rust and the UI is created using Python. This is achieved via the PyO3 project.
 The main justification for this dual language architecture is for speeding up path solving.
-
-### The name
-The name Taksioras is based on a joke, that this would the the perfect tool for a taxi driver to plan the most *expensive* path to a destination.
